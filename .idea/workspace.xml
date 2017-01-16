@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23ccf875-8101-45ab-abc9-77198f9634a9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/WuTangFinancial/ExchangeHandler.class" afterPath="$PROJECT_DIR$/target/classes/WuTangFinancial/ExchangeHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/WuTangFinancial/WuTangFinancial.class" afterPath="$PROJECT_DIR$/target/classes/WuTangFinancial/WuTangFinancial.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/WuTangFinancialTest/exchangeHandlerTest.class" afterPath="$PROJECT_DIR$/target/test-classes/WuTangFinancialTest/exchangeHandlerTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/WuTangFinancial/ExchangeHandler.java" afterPath="$PROJECT_DIR$/src/main/java/WuTangFinancial/ExchangeHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/WuTangFinancial/WuTangFinancial.java" afterPath="$PROJECT_DIR$/src/main/java/WuTangFinancial/WuTangFinancial.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/WuTangFinancialTest/exchangeHandlerTest.java" afterPath="$PROJECT_DIR$/src/test/java/WuTangFinancialTest/exchangeHandlerTest.java" />
-    </list>
+    <list default="true" id="23ccf875-8101-45ab-abc9-77198f9634a9" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,8 +60,8 @@
       <file leaf-file-name="exchangeHandlerTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/WuTangFinancialTest/exchangeHandlerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="77" column="45" lean-forward="false" selection-start-line="77" selection-start-column="45" selection-end-line="77" selection-end-column="45" />
+            <state relative-caret-position="90">
+              <caret line="69" column="53" lean-forward="true" selection-start-line="69" selection-start-column="53" selection-end-line="69" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -809,7 +800,7 @@
       <updated>1484341409947</updated>
       <workItem from="1484341415378" duration="8907000" />
       <workItem from="1484355196743" duration="1240000" />
-      <workItem from="1484512372887" duration="13130000" />
+      <workItem from="1484512372887" duration="13495000" />
     </task>
     <servers />
   </component>
@@ -846,7 +837,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23277000" />
+    <option name="totallyTimeSpent" value="23642000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -900,7 +891,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/WuTangFinancialTest/exchangeHandlerTest.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1053,8 +1052,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/WuTangFinancialTest/exchangeHandlerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="77" column="45" lean-forward="false" selection-start-line="77" selection-start-column="45" selection-end-line="77" selection-end-column="45" />
+        <state relative-caret-position="90">
+          <caret line="69" column="53" lean-forward="true" selection-start-line="69" selection-start-column="53" selection-end-line="69" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
