@@ -10,13 +10,13 @@ public class ExchangeHandler {
 
         result = toUSD(amt, from);
         if(to != "USD") {
-            result = fromUSD(amt, to);
+            result = fromUSD(result, to);
         }
 
         return result;
     }
 
-    public Double toUSD(Double amt, String from) {
+    private Double toUSD(Double amt, String from) {
         // take value of "amt" & perform operation
         // decide on operation based on value of "from"
         // amt * exchangeRate = amtUSD;
@@ -62,7 +62,7 @@ public class ExchangeHandler {
     }
     // end toUSD Method
 
-    public Double fromUSD(Double amt, String to) {
+    private Double fromUSD(Double amt, String to) {
         // take value of "amt" & perform operation
         // decide on operation based on value of "from"
         // amt * exchangeRate = amtUSD;

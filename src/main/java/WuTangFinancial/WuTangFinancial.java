@@ -8,6 +8,6 @@ public class WuTangFinancial {
 
         ExchangeHandler exchangeHandler = new ExchangeHandler();
 
-        System.out.println(exchangeHandler.makeExchange(5.0,"USD","GBP"));
+        System.out.println(exchangeHandler.makeExchange(5.00,"EUR","GBP"));
     }
 }
